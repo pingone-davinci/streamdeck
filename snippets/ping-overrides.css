@@ -1,0 +1,11 @@
+/* 
+    Class definitions that override/extend the default Ping CSS
+    Ensure this CSS file is declared last so that the overrides are applied correctly
+*/
+
+.companyLogo {
+    /* Ping Logo  */
+    content: url("https://assets.pingone.com/ux/ui-library/5.0.2/images/logo-pingidentity.png");
+    width: 65px;
+    height: 65px;
+}

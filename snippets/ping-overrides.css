@@ -1,8 +1,3 @@
-/* 
-    Class definitions that override/extend the default Ping CSS
-    Ensure this CSS file is declared last so that the overrides are applied correctly
-*/
-
 .companyLogo {
     /* Ping Logo  */
     content: url("https://assets.pingone.com/ux/ui-library/5.0.2/images/logo-pingidentity.png");
@@ -15,10 +10,12 @@
     min-width: 400px;
     width: 100%
 }
-
+/* Break out into individual classes as needed */
 .magicLinkDiv,
+.otpDiv,
 .signInDiv,
 .successDiv,
+.totpDiv,
 .registrationDiv{
     max-width: 400px; 
     min-width: 400px;

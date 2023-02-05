@@ -18,13 +18,13 @@
 #
 
 target_environment_name        = "gsa-129-1"
-admin_password                 = "{{password}}"
-admin_client_id                = "{{clientId}}"
-admin_client_secret            = "{{clientSecret}}"
-admin_environment_id           = "{{envId}}"
+admin_password                 = "{{home_password}}"
+admin_client_id                = "{{pingone_clientId}}"
+admin_client_secret            = "{{pingone_clientSecret}}"
+admin_environment_id           = "{{pingone_envId}}"
 license_name                   = "INTERNAL"
 region                         = "NorthAmerica"
-admin_username                 = "{{email}}
+admin_username                 = "{{home_email}}
 target_environment_description = "SKO Environment - Built by Terraform CLI"
 target_environment_type        = "SANDBOX"
 target_population_name         = "SKO Population"

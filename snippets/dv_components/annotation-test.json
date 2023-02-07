@@ -2,29 +2,6 @@
     "clonedNodes": [
         {
             "data": {
-                "id": "dhhcgqh374",
-                "nodeType": "CONNECTION",
-                "connectionId": "06922a684039827499bdbdd97f49827b",
-                "connectorId": "variablesConnector",
-                "name": "Variables",
-                "label": "Variables",
-                "status": "unconfigured"
-            },
-            "position": {
-                "x": 420,
-                "y": 300
-            },
-            "group": "nodes",
-            "removed": false,
-            "selected": false,
-            "selectable": true,
-            "locked": false,
-            "grabbable": true,
-            "pannable": false,
-            "classes": ""
-        },
-        {
-            "data": {
                 "id": "x5qbunpqpv",
                 "nodeType": "ANNOTATION",
                 "name": "Annotation",
@@ -34,13 +11,13 @@
                 "type": "action",
                 "properties": {
                     "backgroundColor": {
-                        "value": "#E7E7E7"
+                        "value": "#FFB91C"
                     },
                     "annotationTextColor": {
                         "value": "#000000"
                     },
                     "annotation": {
-                        "value": "__ANNOTATION_TEST_"
+                        "value": "__ANNOTATION__"
                     }
                 },
                 "status": "configured"

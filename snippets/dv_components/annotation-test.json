@@ -1,0 +1,63 @@
+{
+    "clonedNodes": [
+        {
+            "data": {
+                "id": "dhhcgqh374",
+                "nodeType": "CONNECTION",
+                "connectionId": "06922a684039827499bdbdd97f49827b",
+                "connectorId": "variablesConnector",
+                "name": "Variables",
+                "label": "Variables",
+                "status": "unconfigured"
+            },
+            "position": {
+                "x": 420,
+                "y": 300
+            },
+            "group": "nodes",
+            "removed": false,
+            "selected": false,
+            "selectable": true,
+            "locked": false,
+            "grabbable": true,
+            "pannable": false,
+            "classes": ""
+        },
+        {
+            "data": {
+                "id": "x5qbunpqpv",
+                "nodeType": "ANNOTATION",
+                "name": "Annotation",
+                "connectionId": "921bfae85c38ed45045e07be703d86b8",
+                "connectorId": "annotationConnector",
+                "capabilityName": "updateAnnotationProperties",
+                "type": "action",
+                "properties": {
+                    "backgroundColor": {
+                        "value": "#E7E7E7"
+                    },
+                    "annotationTextColor": {
+                        "value": "#000000"
+                    },
+                    "annotation": {
+                        "value": "__ANNOTATION_TEST_"
+                    }
+                },
+                "status": "configured"
+            },
+            "position": {
+                "x": 300,
+                "y": 390
+            },
+            "group": "nodes",
+            "removed": false,
+            "selected": false,
+            "selectable": true,
+            "locked": false,
+            "grabbable": true,
+            "pannable": false,
+            "classes": ""
+        }
+    ],
+    "clonedEdges": []
+}

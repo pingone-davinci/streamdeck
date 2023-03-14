@@ -1,2 +1,0 @@
-# DaVinci Snippets Readme
-TBD
